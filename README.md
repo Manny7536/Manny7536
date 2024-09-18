@@ -16,7 +16,7 @@ Badge](https://img.shields.io/badge/-Subash%20Shah-red?style=flat&labelColor=c03
 
 ###
 
-<p align="left">🎓  I'm pursuing a BSc (Hons) in Computing at The British College.<br><br>🌱  I'm currently learning python and working on some cool projects. <br><br>🚀  I love exploring new technologies and keeping up with industry trends.<br><br>🎯  Interested in full-stack development and problem-solving.<br><br>📂 Check out my projects on https://github.com/Manny7536</p>
+<p align="left">- 🎓  I'm pursuing a BSc (Hons) in Computing at The British College.<br><br>- 🌱  I'm currently learning python and working on some cool projects. <br><br>- 🚀  I love exploring new technologies and keeping up with industry trends.<br><br>- 🎯  Interested in full-stack development and problem-solving.<br><br>- 📂 Check out my projects on https://github.com/Manny7536</p>
 
 ###
 
