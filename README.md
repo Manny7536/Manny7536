@@ -20,10 +20,6 @@ Badge](https://img.shields.io/badge/-Subash%20Shah-red?style=flat&labelColor=c03
 
 ###
 
-<p align="left">Feel free to  get in touch.</p>
-
-###
-
 <h2 align="left">Languages and Tools</h2>
 
 ###
@@ -55,6 +51,10 @@ Badge](https://img.shields.io/badge/-Subash%20Shah-red?style=flat&labelColor=c03
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h2 align="left">Github Stats</h2>
 
 ###
 
