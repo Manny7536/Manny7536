@@ -2,11 +2,17 @@
 
 ###
 
-<p align="center">My name is Subash Shah, passionate developer from Kathmandu, Nepal. Lets collaborate and build something great together!</p>
+<h2 align="center">My name is Subash Shah, passionate developer from Kathmandu, Nepal. Lets collaborate and build something great together!</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+![](https://komarev.com/ghpvc/?username=Manny7536i&label=Profile%20views&color=0e75b6&style=flat)
+[![Linkedin
+Badge](https://img.shields.io/badge/-SubashShah-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://linkedin.com/in/subash-shah-16076b2b6)
+[![Instagram
+Badge](https://img.shields.io/badge/-sabinsubedi87-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shahsubash47/)
+[![Mail
+Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:subashshah47@gmail.com)
 
 ###
 
