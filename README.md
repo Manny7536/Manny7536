@@ -59,10 +59,14 @@ Badge](https://img.shields.io/badge/-Subash%20Shah-red?style=flat&labelColor=c03
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manny7536&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manny7536&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manny7536&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!-- 
+![Ipenywis's github
+stats](https://github-readme-stats.vercel.app/api?username=Manny7536&count_private=true&theme=tokyonight) -->
+
+<div>
+<img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manny7536&theme=tokyonight" alt="Subash-Shah" />
+&nbsp;&nbsp;
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manny7536&layout=compact&theme=tokyonight" alt="Subash Shah Language Stat" />
 </div>
 
 ###
