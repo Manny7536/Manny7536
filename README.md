@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Subash Shah, passionate developer from Kathmandu, Nepal. Lets collaborate and build something great together!</h2>
+<p align="center"><b>My name is Subash Shah, passionate developer from Kathmandu, Nepal. Lets collaborate and build something great together!</b></p>
 
 ###
 
@@ -10,9 +10,9 @@
 [![Linkedin
 Badge](https://img.shields.io/badge/-SubashShah-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://linkedin.com/in/subash-shah-16076b2b6)
 [![Instagram
-Badge](https://img.shields.io/badge/-sabinsubedi87-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shahsubash47/)
+Badge](https://img.shields.io/badge/-ManishShah-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shahsubash47/)
 [![Mail
-Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:subashshah47@gmail.com)
+Badge](https://img.shields.io/badge/-Subash%20Shah-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:subashshah47@gmail.com)
 
 ###
 
