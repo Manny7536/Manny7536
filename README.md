@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><b>My name is Subash Shah, passionate developer from Kathmandu, Nepal.<br> Lets collaborate and build something great together!</b></p>
+<h3 align="center"><b>My name is Subash Shah, passionate developer from Kathmandu, Nepal.<br> Lets collaborate and build something great together!</b></h3>
 
 ###
 
